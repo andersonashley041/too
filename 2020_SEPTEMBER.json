@@ -1,0 +1,1514 @@
+{
+  "timelineObjects": [
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 302608497,
+          "longitudeE7": -831396855,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 303260697,
+          "longitudeE7": -830907967,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1600978213000",
+          "endTimestampMs": "1601034664000"
+        },
+        "distance": 6575,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "HIGH",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 93.17083358764648
+          },
+          {
+            "activityType": "STILL",
+            "probability": 4.438469558954239
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 1.1756887659430504
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.4543846007436514
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.2958214608952403
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.1504020532593131
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.11471331818029284
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.09658645140007138
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.07124381372705102
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.018670092686079443
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.007071618165355176
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.004049498966196552
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.0015380350305349566
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.000454923247161787
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 6.987376650613442e-05
+          }
+        ],
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 301025031,
+              "lngE7": -832592961,
+              "timestampMs": "1601030430828",
+              "accuracyMeters": 156
+            },
+            {
+              "latE7": 301367067,
+              "lngE7": -832633403,
+              "timestampMs": "1601030910000",
+              "accuracyMeters": 10
+            },
+            {
+              "latE7": 301366764,
+              "lngE7": -832647032,
+              "timestampMs": "1601030925117",
+              "accuracyMeters": 52
+            },
+            {
+              "latE7": 302434767,
+              "lngE7": -832445850,
+              "timestampMs": "1601031614000",
+              "accuracyMeters": 4
+            },
+            {
+              "latE7": 302689212,
+              "lngE7": -832232449,
+              "timestampMs": "1601032018886",
+              "accuracyMeters": 135
+            },
+            {
+              "latE7": 302898380,
+              "lngE7": -831716470,
+              "timestampMs": "1601032350000",
+              "accuracyMeters": 3
+            },
+            {
+              "latE7": 303243230,
+              "lngE7": -830923309,
+              "timestampMs": "1601033695825",
+              "accuracyMeters": 339
+            },
+            {
+              "latE7": 303272598,
+              "lngE7": -830871148,
+              "timestampMs": "1601033945390",
+              "accuracyMeters": 156
+            },
+            {
+              "latE7": 303269425,
+              "lngE7": -830868954,
+              "timestampMs": "1601034067306",
+              "accuracyMeters": 128
+            },
+            {
+              "latE7": 303271161,
+              "lngE7": -830896581,
+              "timestampMs": "1601034189269",
+              "accuracyMeters": 116
+            },
+            {
+              "latE7": 303268546,
+              "lngE7": -830866424,
+              "timestampMs": "1601034440313",
+              "accuracyMeters": 110
+            },
+            {
+              "latE7": 303261295,
+              "lngE7": -830905454,
+              "timestampMs": "1601034633000",
+              "accuracyMeters": 46
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601034725000",
+          "location": {
+            "latitudeE7": 303260147,
+            "longitudeE7": -830911905,
+            "accuracyMetres": 71
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 303268660,
+          "longitudeE7": -830896510,
+          "placeId": "ChIJXywzXrfC7ogRzDeei3vvB_k",
+          "address": "6693 165th Pl\nLive Oak, FL 32060\nUSA",
+          "name": "6693 165th Pl",
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          },
+          "locationConfidence": 45.239624
+        },
+        "duration": {
+          "startTimestampMs": "1601034664000",
+          "endTimestampMs": "1601037344000"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 303263200,
+        "centerLngE7": -830904950,
+        "visitConfidence": 81,
+        "otherCandidateLocations": [
+          {
+            "latitudeE7": 303270790,
+            "longitudeE7": -830900190,
+            "placeId": "ChIJHcsN4bnC7ogRpBQqm6UFFHw",
+            "locationConfidence": 40.987854
+          },
+          {
+            "latitudeE7": 303274230,
+            "longitudeE7": -830899960,
+            "placeId": "ChIJGa4d47nC7ogRAVlKNBvaVEc",
+            "locationConfidence": 13.772525
+          }
+        ],
+        "editConfirmationStatus": "NOT_CONFIRMED"
+      }
+    },
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 303255873,
+          "longitudeE7": -830908959,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 303243343,
+          "longitudeE7": -830923047,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1601037344000",
+          "endTimestampMs": "1601070006815"
+        },
+        "distance": 7658,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "LOW",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 46.900126338005066
+          },
+          {
+            "activityType": "STILL",
+            "probability": 45.26958167552948
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 3.852972760796547
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 2.481551840901375
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.5869477521628141
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.2174822147935629
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.19520065980032086
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.18563983030617237
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.11836146004498005
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.0832707853987813
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.07635998190380633
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.03169100091326982
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.00029725226795562776
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.00027981013772659935
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.00023365273591480218
+          }
+        ],
+        "waypointPath": {
+          "waypoints": [
+            {
+              "latE7": 303244113,
+              "lngE7": -830907363
+            },
+            {
+              "latE7": 302901325,
+              "lngE7": -830990371
+            },
+            {
+              "latE7": 303100337,
+              "lngE7": -831314315
+            },
+            {
+              "latE7": 303413677,
+              "lngE7": -830854721
+            },
+            {
+              "latE7": 303493938,
+              "lngE7": -831548995
+            },
+            {
+              "latE7": 303467960,
+              "lngE7": -830974960
+            },
+            {
+              "latE7": 303214092,
+              "lngE7": -831125640
+            },
+            {
+              "latE7": 303275508,
+              "lngE7": -831315841
+            },
+            {
+              "latE7": 303239669,
+              "lngE7": -830919952
+            }
+          ]
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 303100357,
+              "lngE7": -831306381,
+              "timestampMs": "1601043798623",
+              "accuracyMeters": 77
+            },
+            {
+              "latE7": 303130322,
+              "lngE7": -830917206,
+              "timestampMs": "1601047658632",
+              "accuracyMeters": 45
+            },
+            {
+              "latE7": 303490715,
+              "lngE7": -831550140,
+              "timestampMs": "1601054618148",
+              "accuracyMeters": 100
+            },
+            {
+              "latE7": 303214092,
+              "lngE7": -831120453,
+              "timestampMs": "1601055929777",
+              "accuracyMeters": 64
+            },
+            {
+              "latE7": 303107204,
+              "lngE7": -831018219,
+              "timestampMs": "1601061076141",
+              "accuracyMeters": 92
+            },
+            {
+              "latE7": 303275452,
+              "lngE7": -831311722,
+              "timestampMs": "1601062496000",
+              "accuracyMeters": 5
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601069915763",
+          "location": {
+            "latitudeE7": 303245028,
+            "longitudeE7": -830921828,
+            "accuracyMetres": 78
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 303241040,
+          "longitudeE7": -830941510,
+          "placeId": "ChIJMxZJv7jC7ogRlcIIUNAYoYs",
+          "address": "16540 68th Pl\nLive Oak, FL 32060\nUSA",
+          "name": "Shenandoah Dairy",
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          },
+          "locationConfidence": 85.99389
+        },
+        "duration": {
+          "startTimestampMs": "1601070006815",
+          "endTimestampMs": "1601071876771"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 303243018,
+        "centerLngE7": -830923345,
+        "visitConfidence": 74,
+        "editConfirmationStatus": "NOT_CONFIRMED"
+      }
+    },
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 303241606,
+          "longitudeE7": -830925464,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 303261226,
+          "longitudeE7": -830903797,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1601071876771",
+          "endTimestampMs": "1601122206805"
+        },
+        "distance": 32614,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "MEDIUM",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 75.70515275001526
+          },
+          {
+            "activityType": "STILL",
+            "probability": 18.81738305091858
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 3.924625739455223
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.4699357785284519
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.3505178727209568
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.26210369542241096
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.18443145090714097
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.11952598579227924
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.08948956383392215
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.041548514855094254
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.029554471257142723
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.0049873349780682474
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.00040161226024792995
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.00027987714474875247
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 5.946941996626265e-05
+          }
+        ],
+        "waypointPath": {
+          "waypoints": [
+            {
+              "latE7": 303237915,
+              "lngE7": -830924224
+            },
+            {
+              "latE7": 302436122,
+              "lngE7": -832444305
+            },
+            {
+              "latE7": 301016654,
+              "lngE7": -832570114
+            },
+            {
+              "latE7": 302474002,
+              "lngE7": -831983871
+            },
+            {
+              "latE7": 303315353,
+              "lngE7": -831105346
+            },
+            {
+              "latE7": 303261241,
+              "lngE7": -830895004
+            }
+          ]
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 301014576,
+              "lngE7": -832575836,
+              "timestampMs": "1601103754000",
+              "accuracyMeters": 34
+            },
+            {
+              "latE7": 302474003,
+              "lngE7": -831983566,
+              "timestampMs": "1601118917000",
+              "accuracyMeters": 3
+            },
+            {
+              "latE7": 303315353,
+              "lngE7": -831105652,
+              "timestampMs": "1601119761000",
+              "accuracyMeters": 7
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601122022403",
+          "location": {
+            "latitudeE7": 303253463,
+            "longitudeE7": -830913706,
+            "accuracyMetres": 137
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 303270790,
+          "longitudeE7": -830900190,
+          "placeId": "ChIJHcsN4bnC7ogRpBQqm6UFFHw",
+          "address": "6683 165th Pl\nLive Oak, FL 32060\nUSA",
+          "name": "6683 165th Pl",
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          },
+          "locationConfidence": 51.31978
+        },
+        "duration": {
+          "startTimestampMs": "1601122206805",
+          "endTimestampMs": "1601124187465"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 303258250,
+        "centerLngE7": -830908700,
+        "visitConfidence": 79,
+        "otherCandidateLocations": [
+          {
+            "latitudeE7": 303268660,
+            "longitudeE7": -830896510,
+            "placeId": "ChIJXywzXrfC7ogRzDeei3vvB_k",
+            "locationConfidence": 33.924454
+          },
+          {
+            "latitudeE7": 303274230,
+            "longitudeE7": -830899960,
+            "placeId": "ChIJGa4d47nC7ogRAVlKNBvaVEc",
+            "locationConfidence": 8.124508
+          },
+          {
+            "latitudeE7": 303466570,
+            "longitudeE7": -830715610,
+            "placeId": "ChIJJymC-vjn7ogRc_iZxDiCR04",
+            "locationConfidence": 0.028485121
+          },
+          {
+            "latitudeE7": 303474170,
+            "longitudeE7": -830715810,
+            "placeId": "ChIJfSCQAvnn7ogRFbd3QWntFIk",
+            "locationConfidence": 0.020666733
+          }
+        ],
+        "editConfirmationStatus": "NOT_CONFIRMED"
+      }
+    },
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 303271181,
+          "longitudeE7": -830896663,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 303291857,
+          "longitudeE7": -831086333,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1601124187465",
+          "endTimestampMs": "1601139741349"
+        },
+        "distance": 22115,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "MEDIUM",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 73.93479943275452
+          },
+          {
+            "activityType": "STILL",
+            "probability": 10.846128314733505
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 6.546813994646072
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 5.159788206219673
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.9561276063323021
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.8953847922384739
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.4527005832642317
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.44469847343862057
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.40909480303525925
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.22193319164216518
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.09147051605395973
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.03892192034982145
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.0008579294444643892
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.0007067592378007248
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0005631452950183302
+          }
+        ],
+        "waypointPath": {
+          "waypoints": [
+            {
+              "latE7": 303271179,
+              "lngE7": -830894241
+            },
+            {
+              "latE7": 303267707,
+              "lngE7": -830880661
+            },
+            {
+              "latE7": 303267765,
+              "lngE7": -830867156
+            },
+            {
+              "latE7": 303121337,
+              "lngE7": -830852661
+            },
+            {
+              "latE7": 303256988,
+              "lngE7": -830895004
+            },
+            {
+              "latE7": 303400440,
+              "lngE7": -830825500
+            },
+            {
+              "latE7": 303407821,
+              "lngE7": -830843429
+            },
+            {
+              "latE7": 303121032,
+              "lngE7": -830904846
+            },
+            {
+              "latE7": 303120956,
+              "lngE7": -830917053
+            },
+            {
+              "latE7": 303120498,
+              "lngE7": -830988769
+            },
+            {
+              "latE7": 303301887,
+              "lngE7": -831172103
+            },
+            {
+              "latE7": 303237628,
+              "lngE7": -830925369
+            },
+            {
+              "latE7": 303301887,
+              "lngE7": -831086196
+            },
+            {
+              "latE7": 303301887,
+              "lngE7": -831086273
+            }
+          ]
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 303268185,
+              "lngE7": -830867157,
+              "timestampMs": "1601125024910",
+              "accuracyMeters": 92
+            },
+            {
+              "latE7": 303256989,
+              "lngE7": -830895386,
+              "timestampMs": "1601125649000",
+              "accuracyMeters": 3
+            },
+            {
+              "latE7": 303407936,
+              "lngE7": -830843353,
+              "timestampMs": "1601132453000",
+              "accuracyMeters": 6
+            },
+            {
+              "latE7": 303130302,
+              "lngE7": -830917206,
+              "timestampMs": "1601133572771",
+              "accuracyMeters": 82
+            },
+            {
+              "latE7": 303308487,
+              "lngE7": -831172180,
+              "timestampMs": "1601135616000",
+              "accuracyMeters": 10
+            },
+            {
+              "latE7": 303233223,
+              "lngE7": -830931091,
+              "timestampMs": "1601137310752",
+              "accuracyMeters": 72
+            },
+            {
+              "latE7": 303291855,
+              "lngE7": -831086273,
+              "timestampMs": "1601138179777",
+              "accuracyMeters": 72
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601139811766",
+          "location": {
+            "latitudeE7": 303291857,
+            "longitudeE7": -831086336,
+            "accuracyMetres": 158
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 303281760,
+          "longitudeE7": -831080360,
+          "placeId": "ChIJW78wz5PC7ogR6G5Nbm8FjiM",
+          "address": "17336 66th St\nLive Oak, FL 32060\nUSA",
+          "name": "17336 66th St",
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          },
+          "locationConfidence": 42.032726
+        },
+        "duration": {
+          "startTimestampMs": "1601139741349",
+          "endTimestampMs": "1601140839278"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 303291800,
+        "centerLngE7": -831086260,
+        "visitConfidence": 75,
+        "otherCandidateLocations": [
+          {
+            "latitudeE7": 303291557,
+            "longitudeE7": -831087434,
+            "placeId": "ChIJyV7zKpLC7ogRc403jAqjvLU",
+            "locationConfidence": 40.728416
+          },
+          {
+            "latitudeE7": 303278900,
+            "longitudeE7": -831114920,
+            "placeId": "ChIJq7o8i43C7ogRjZOu8YBkWQA",
+            "locationConfidence": 4.087939
+          }
+        ],
+        "editConfirmationStatus": "NOT_CONFIRMED"
+      }
+    },
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 303291866,
+          "longitudeE7": -831086296,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 300959215,
+          "longitudeE7": -832409962,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1601140839278",
+          "endTimestampMs": "1601233587727"
+        },
+        "distance": 32318,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "MEDIUM",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 61.51620149612427
+          },
+          {
+            "activityType": "STILL",
+            "probability": 17.2056645154953
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 12.57253885269165
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 3.750152140855789
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 2.2287731990218163
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.8626691065728664
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.5665195174515247
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.5346038844436407
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.3324698656797409
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.2861656714230776
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.09376925299875438
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.04886044189333916
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.0007890133929322474
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.000631275906926021
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.0001814346660466981
+          }
+        ],
+        "waypointPath": {
+          "waypoints": [
+            {
+              "latE7": 303301887,
+              "lngE7": -831086196
+            },
+            {
+              "latE7": 303120498,
+              "lngE7": -830988769
+            },
+            {
+              "latE7": 303244209,
+              "lngE7": -830906448
+            },
+            {
+              "latE7": 302460403,
+              "lngE7": -832611618
+            },
+            {
+              "latE7": 301025161,
+              "lngE7": -832570037
+            }
+          ]
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 303246727,
+              "lngE7": -830906830,
+              "timestampMs": "1601145790000",
+              "accuracyMeters": 53
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601233587727",
+          "location": {
+            "latitudeE7": 300959215,
+            "longitudeE7": -832409962,
+            "accuracyMetres": 160,
+            "sourceInfo": {
+              "deviceTag": -2101539710
+            }
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 301016951,
+          "longitudeE7": -832575846,
+          "placeId": "ChIJORfNmhi27ogRa7U7RH7xfOM",
+          "address": "968 SW Graceland Rd\nMayo, FL 32066\nUSA",
+          "name": "968 SW Graceland Rd",
+          "semanticType": "TYPE_SEARCHED_ADDRESS",
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          },
+          "locationConfidence": 79.851494
+        },
+        "duration": {
+          "startTimestampMs": "1601233587727",
+          "endTimestampMs": "1601288691758"
+        },
+        "placeConfidence": "HIGH_CONFIDENCE",
+        "centerLatE7": 301014700,
+        "centerLngE7": -832578733,
+        "visitConfidence": 63,
+        "editConfirmationStatus": "NOT_CONFIRMED"
+      }
+    },
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 301015003,
+          "longitudeE7": -832577761,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 303243170,
+          "longitudeE7": -830923202,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1601288691758",
+          "endTimestampMs": "1601292047266"
+        },
+        "distance": 31713,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "HIGH",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 93.51557493209839
+          },
+          {
+            "activityType": "STILL",
+            "probability": 3.378501534461975
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 2.49539315700531
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.20228074863553047
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.1142960973083973
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.106674840208143
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.06598624167963862
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.05537307006306946
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.04430336703080684
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.010717053373809904
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.007077855843817815
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.00350584123225417
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.00014006496940055513
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.00012902702337669325
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 3.431750315030513e-05
+          }
+        ],
+        "waypointPath": {
+          "waypoints": [
+            {
+              "latE7": 301016654,
+              "lngE7": -832570114
+            },
+            {
+              "latE7": 302435512,
+              "lngE7": -832400970
+            },
+            {
+              "latE7": 302463474,
+              "lngE7": -831983795
+            },
+            {
+              "latE7": 303121032,
+              "lngE7": -830904846
+            },
+            {
+              "latE7": 303239555,
+              "lngE7": -830920181
+            }
+          ]
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 302463474,
+              "lngE7": -831983414,
+              "timestampMs": "1601290913000",
+              "accuracyMeters": 3
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601292424612",
+          "location": {
+            "latitudeE7": 303243885,
+            "longitudeE7": -830920140,
+            "accuracyMetres": 92
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 303270790,
+          "longitudeE7": -830900190,
+          "placeId": "ChIJHcsN4bnC7ogRpBQqm6UFFHw",
+          "address": "6683 165th Pl\nLive Oak, FL 32060\nUSA",
+          "name": "6683 165th Pl",
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          },
+          "locationConfidence": 34.019455
+        },
+        "duration": {
+          "startTimestampMs": "1601292047266",
+          "endTimestampMs": "1601330366728"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 303271733,
+        "centerLngE7": -830897100,
+        "visitConfidence": 68,
+        "otherCandidateLocations": [
+          {
+            "latitudeE7": 303241040,
+            "longitudeE7": -830941510,
+            "placeId": "ChIJMxZJv7jC7ogRlcIIUNAYoYs",
+            "locationConfidence": 33.15857
+          },
+          {
+            "latitudeE7": 303268660,
+            "longitudeE7": -830896510,
+            "placeId": "ChIJXywzXrfC7ogRzDeei3vvB_k",
+            "locationConfidence": 23.431274
+          },
+          {
+            "latitudeE7": 303274230,
+            "longitudeE7": -830899960,
+            "placeId": "ChIJGa4d47nC7ogRAVlKNBvaVEc",
+            "locationConfidence": 8.210899
+          },
+          {
+            "latitudeE7": 303478720,
+            "longitudeE7": -830545320,
+            "placeId": "ChIJcQEMoovn7ogRDonwbvAnkKg",
+            "locationConfidence": 0.4214781
+          }
+        ],
+        "editConfirmationStatus": "NOT_CONFIRMED"
+      }
+    },
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 303243377,
+          "longitudeE7": -830923082,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 303271280,
+          "longitudeE7": -830896534,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1601330366728",
+          "endTimestampMs": "1601382336264"
+        },
+        "distance": 34047,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "HIGH",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 77.74274945259094
+          },
+          {
+            "activityType": "STILL",
+            "probability": 16.843748092651367
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 3.9049148559570312
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.525891873985529
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.28230815660208464
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.22192925680428743
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.20507427398115396
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.1179077080450952
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.07094625034369528
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.050549168372526765
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.028956710593774915
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.004285840623197146
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.0003372886112629203
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.00029793088742735563
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 9.639172731112922e-05
+          }
+        ],
+        "waypointPath": {
+          "waypoints": [
+            {
+              "latE7": 303239688,
+              "lngE7": -830919952
+            },
+            {
+              "latE7": 300858592,
+              "lngE7": -832191467
+            },
+            {
+              "latE7": 301166553,
+              "lngE7": -832573852
+            },
+            {
+              "latE7": 302435550,
+              "lngE7": -832378540
+            },
+            {
+              "latE7": 302535820,
+              "lngE7": -831984100
+            },
+            {
+              "latE7": 303120498,
+              "lngE7": -830988769
+            },
+            {
+              "latE7": 303271274,
+              "lngE7": -830894241
+            }
+          ]
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 301166515,
+              "lngE7": -832571030,
+              "timestampMs": "1601378479043",
+              "accuracyMeters": 64
+            },
+            {
+              "latE7": 302535763,
+              "lngE7": -831990356,
+              "timestampMs": "1601379642000",
+              "accuracyMeters": 42
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601382397792",
+          "location": {
+            "latitudeE7": 303271267,
+            "longitudeE7": -830896530,
+            "accuracyMetres": 158
+          }
+        }
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 303270790,
+          "longitudeE7": -830900190,
+          "placeId": "ChIJHcsN4bnC7ogRpBQqm6UFFHw",
+          "address": "6683 165th Pl\nLive Oak, FL 32060\nUSA",
+          "name": "6683 165th Pl",
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          },
+          "locationConfidence": 39.05144
+        },
+        "duration": {
+          "startTimestampMs": "1601382336264",
+          "endTimestampMs": "1601418470606"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 303271720,
+        "centerLngE7": -830896192,
+        "visitConfidence": 76,
+        "otherCandidateLocations": [
+          {
+            "latitudeE7": 303268660,
+            "longitudeE7": -830896510,
+            "placeId": "ChIJXywzXrfC7ogRzDeei3vvB_k",
+            "locationConfidence": 37.73673
+          },
+          {
+            "latitudeE7": 303274230,
+            "longitudeE7": -830899960,
+            "placeId": "ChIJGa4d47nC7ogRAVlKNBvaVEc",
+            "locationConfidence": 11.872988
+          },
+          {
+            "latitudeE7": 303241040,
+            "longitudeE7": -830941510,
+            "placeId": "ChIJMxZJv7jC7ogRlcIIUNAYoYs",
+            "locationConfidence": 10.893569
+          },
+          {
+            "latitudeE7": 303258730,
+            "longitudeE7": -830860019,
+            "placeId": "ChIJ-Q968rbC7ogRVkhD9B3iIXU",
+            "locationConfidence": 0.3747537
+          }
+        ],
+        "editConfirmationStatus": "NOT_CONFIRMED"
+      }
+    },
+    {
+      "activitySegment": {
+        "startLocation": {
+          "latitudeE7": 303243232,
+          "longitudeE7": -830923289,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "endLocation": {
+          "latitudeE7": 303271993,
+          "longitudeE7": -830896642,
+          "sourceInfo": {
+            "deviceTag": -2101539710
+          }
+        },
+        "duration": {
+          "startTimestampMs": "1601418470606",
+          "endTimestampMs": "1601569353304"
+        },
+        "distance": 31539,
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "confidence": "MEDIUM",
+        "activities": [
+          {
+            "activityType": "IN_PASSENGER_VEHICLE",
+            "probability": 67.23724603652954
+          },
+          {
+            "activityType": "STILL",
+            "probability": 24.461276829242706
+          },
+          {
+            "activityType": "WALKING",
+            "probability": 6.615031510591507
+          },
+          {
+            "activityType": "IN_FERRY",
+            "probability": 0.4061182029545307
+          },
+          {
+            "activityType": "MOTORCYCLING",
+            "probability": 0.40077725425362587
+          },
+          {
+            "activityType": "CYCLING",
+            "probability": 0.36834869533777237
+          },
+          {
+            "activityType": "RUNNING",
+            "probability": 0.19888430833816528
+          },
+          {
+            "activityType": "FLYING",
+            "probability": 0.10799764422699809
+          },
+          {
+            "activityType": "IN_BUS",
+            "probability": 0.09292768663726747
+          },
+          {
+            "activityType": "SKIING",
+            "probability": 0.05316518363542855
+          },
+          {
+            "activityType": "SAILING",
+            "probability": 0.052235100883990526
+          },
+          {
+            "activityType": "IN_TRAIN",
+            "probability": 0.004599776730174199
+          },
+          {
+            "activityType": "IN_SUBWAY",
+            "probability": 0.000722586128176772
+          },
+          {
+            "activityType": "IN_TRAM",
+            "probability": 0.0005392776074586436
+          },
+          {
+            "activityType": "IN_VEHICLE",
+            "probability": 0.0001334229864369263
+          }
+        ],
+        "waypointPath": {
+          "waypoints": [
+            {
+              "latE7": 303239536,
+              "lngE7": -830920181
+            },
+            {
+              "latE7": 302460403,
+              "lngE7": -832611618
+            },
+            {
+              "latE7": 301016654,
+              "lngE7": -832570114
+            },
+            {
+              "latE7": 303117580,
+              "lngE7": -831808700
+            },
+            {
+              "latE7": 303274269,
+              "lngE7": -830894241
+            }
+          ]
+        },
+        "simplifiedRawPath": {
+          "points": [
+            {
+              "latE7": 301012249,
+              "lngE7": -832578430,
+              "timestampMs": "1601548907000",
+              "accuracyMeters": 23
+            },
+            {
+              "latE7": 303117771,
+              "lngE7": -831808701,
+              "timestampMs": "1601551495000",
+              "accuracyMeters": 10
+            }
+          ]
+        },
+        "parkingEvent": {
+          "timestampMs": "1601569422283",
+          "location": {
+            "latitudeE7": 303271993,
+            "longitudeE7": -830896642,
+            "accuracyMetres": 132
+          }
+        }
+      }
+    },
+    "",
+    {
+
+    }
+  ]
+}
